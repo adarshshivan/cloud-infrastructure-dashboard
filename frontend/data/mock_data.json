@@ -1,0 +1,10 @@
+{
+  "EC2_Instances": [
+    { "id": "i-001", "name": "Web Server", "status": "running" },
+    { "id": "i-002", "name": "Database Server", "status": "stopped" }
+  ],
+  "S3_Buckets": [
+    { "name": "project-logs" },
+    { "name": "backup-bucket" }
+  ]
+}
