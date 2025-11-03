@@ -1,7 +1,113 @@
+/* ===============================
+   🌩️ CLOUD INFRASTRUCTURE DASHBOARD
+   =============================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
 body {
-  font-family: Arial, sans-serif;
-  background: #f8fafc;
-  color: #333;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #e0f7ff, #f5faff, #dfefff);
+  color: #1e272e;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ===== HEADER ===== */
+h1 {
+  margin-top: 50px;
+  font-size: 2.8rem;
+  font-weight: 600;
+  background: linear-gradient(90deg, #007bff, #00bcd4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  letter-spacing: 1px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  animation: fadeIn 1s ease;
+}
+
+h1::before {
+  content: "☁️";
+  font-size: 2.2rem;
+}
+
+/* ===== SECTIONS ===== */
+h2 {
+  color: #3742fa;
+  margin-top: 40px;
+  font-size: 1.7rem;
+  font-weight: 600;
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+#content {
+  width: 90%;
+  max-width: 800px;
+  margin-top: 30px;
   text-align: center;
+}
+
+/* ===== LIST STYLES ===== */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+li {
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(12px);
+  border-radius: 15px;
+  margin: 15px 0;
+  padding: 18px 25px;
+  text-align: left;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.25s ease-in-out;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  color: #222f3e;
+}
+
+li:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 123, 255, 0.25);
+  background: rgba(255, 255, 255, 0.45);
+  border: 1px solid rgba(0, 123, 255, 0.2);
+}
+
+/* ===== FOOTER ===== */
+footer {
+  margin-top: auto;
   padding: 20px;
+  font-size: 0.9rem;
+  color: #555;
+  opacity: 0.8;
+  text-align: center;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+#description {
+  max-width: 800px;
+  margin-top: 10px;
+  font-size: 1.05rem;
+  color: #34495e;
+  text-align: center;
+  line-height: 1.6;
+  opacity: 0.9;
+  background: rgba(255, 255, 255, 0.35);
+  padding: 12px 18px;
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+  animation: fadeIn 1.2s ease;
 }
