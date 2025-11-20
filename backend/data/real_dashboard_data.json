@@ -1,0 +1,32 @@
+{
+    "ec2": [
+        {
+            "InstanceId": "i-00f08837adfffb7f5",
+            "State": "running",
+            "InstanceType": "t3.micro",
+            "LaunchTime": "2025-11-03 13:39:29+00:00",
+            "PublicIP": "43.204.236.1"
+        }
+    ],
+    "s3": [
+        {
+            "BucketName": "cloudops-reports-bucket1",
+            "Region": "ap-south-1"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
