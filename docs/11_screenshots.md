@@ -40,6 +40,8 @@
 ![13](../images/screenshots/13-IAM-S3FullAccess-Attached.png)
 
 **14-S3-Upload-Success**
+
+
 ![14](../images/screenshots/14-S3-Upload-Success.png)
 
 **15-S3-Bucket-File-List**
