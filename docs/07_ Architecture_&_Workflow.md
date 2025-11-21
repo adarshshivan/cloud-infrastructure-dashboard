@@ -62,5 +62,6 @@ git push →
 Vercel builds → 
 Live dashboard refreshes
 
-![Architecture](./images/architecture/cloud-infra-archi.png)
+![Architecture](../images/architecture/cloud-infra-archi.png)
+
 
