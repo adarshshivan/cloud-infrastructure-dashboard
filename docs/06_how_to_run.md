@@ -33,8 +33,11 @@ pip install -r requirements.txt
 aws configure
 
 2. Option B — Use .env file inside backend/
+
 AWS_ACCESS_KEY_ID=your_key
+
 AWS_SECRET_ACCESS_KEY=your_secret
+
 AWS_DEFAULT_REGION=ap-south-1
 
 ### 5. Run the Backend Script
