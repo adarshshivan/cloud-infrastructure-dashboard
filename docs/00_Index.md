@@ -3,6 +3,8 @@
 The **Cloud Infrastructure Dashboard** is a practical, DevOps project designed to simulate how cloud operations teams monitor AWS resources.  
 Instead of relying on live backend APIs or complex cloud integrations, this project focuses on **extracting real AWS data manually**, converting it into a user-friendly format, and visualizing it through a polished frontend dashboard.
 
+**Detailed documentation available below**
+
 - [01_project_overview](01_project_overview.md)
 - [02_why_this_project](02_why_this_project.md)
 - [03_possible_approaches](003_possible_approaches.md)
