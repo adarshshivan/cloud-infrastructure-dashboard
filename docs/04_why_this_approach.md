@@ -26,7 +26,7 @@ Any API-based or serverless approach would immediately break this requirement.
 
 #  2. Zero Cost — Works 100% Within Free Tier
 
-i are using:
+i am using:
 
 - **AWS Free Tier**  
 - **Vercel Free Plan**  
@@ -87,9 +87,9 @@ This approach matches all the requirements for a begineer like me:
 
 ---
 
-###  It is the most practical  
-###  It is the most portfolio-friendly  
-###  It is the most cost-effective  
+###  It is the most practical way
+###  It is the most portfolio-friendly way
+###  It is the most cost-effective way
 ###  It gives me the best balance of AWS + Python + Frontend 
 
 ---

@@ -37,10 +37,10 @@ This gives this project:
 
 ---
 
-##  3. It Gives You a Chance to Build a Beautiful UI
+##  3. It Gives the Chance to Build a Beautiful UI
 
 Cloud dashboards do not have to be boring.  
-This project allows you to show:
+This project also shows:
 - Clean design  
 - Modern UI  
 - Good UX  
@@ -60,7 +60,7 @@ Just upload and deploy — and it works instantly.
 
 ---
 
-##  5. It Gives You Practical AWS Hands-On Learning
+##  5. It Gives Practical AWS Hands-On Learning
 
 - IAM user creation  
 - AWS CLI configuration  
@@ -71,10 +71,10 @@ Just upload and deploy — and it works instantly.
 
 ---
 
-##  7. It Teaches You the Complete End-to-End Flow
+##  7. It Teaches the Complete End-to-End Flow
 
 Most beginners work only on frontend or backend or AWS…  
-But this project gives you **everything**:
+But this project gives **everything**:
 
 AWS 
 → Backend Processing 

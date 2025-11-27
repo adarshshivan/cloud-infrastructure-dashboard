@@ -61,7 +61,7 @@ In this approach:
 
 #  3. Snapshot-Based Static Dashboard (My Approach)
 
-This is the approach **This is the approach which i used**:
+**This is the approach which i used**:
 
 In this approach:
 
@@ -77,8 +77,6 @@ In this approach:
 - Zero cost  
 - Easy Vercel deployment  
 - Real AWS data  
-- Perfect for portfolios  
-- Professional structure  
 - Beginner-friendly  
 - No backend hosting required  
 - Gives full cloud experience without complexity  

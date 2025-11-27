@@ -58,9 +58,6 @@ The frontend is deployed on Vercel because:
 - Instant redeploys when JSON updates
 
 Flow:
-git push → 
-Vercel builds → 
-Live dashboard refreshes
 
 ![Architecture](../images/architecture/cloud-infra-archi.png)
 
