@@ -7,7 +7,7 @@ Instead of relying on live backend APIs or complex cloud integrations, this proj
 
 - [01_project_overview](01_project_overview.md)
 - [02_why_this_project](02_why_this_project.md)
-- [03_possible_approaches](003_possible_approaches.md)
+- [03_possible_approaches](03_possible_approaches.md)
 - [04_why_this_approach](04_why_this_approach.md)
 - [05_tech_stack](05_tech_stack.md)
 - [06_how_to_run](06_how_to_run.md)
