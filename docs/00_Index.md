@@ -5,17 +5,17 @@ Instead of relying on live backend APIs or complex cloud integrations, this proj
 
 **Detailed documentation available below**
 
-1. [project overview](01_project_overview.md)
-2. [why this project](02_why_this_project.md)
-3. [possible approaches](03_possible_approaches.md)
-4. [why this approach](04_why_this_approach.md)
-5. [tech stack](05_tech_stack.md)
-6. [how to run](06_how_to_run.md)
+1. [Project overview](01_project_overview.md)
+2. [Why this project](02_why_this_project.md)
+3. [Possible approaches](03_possible_approaches.md)
+4. [Why this approach](04_why_this_approach.md)
+5. [Tech stack](05_tech_stack.md)
+6. [How to run](06_how_to_run.md)
 7. [Architecture & Workflow](07_Architecture_&_Workflow.md)
-8. [future enhancements](08_future_enhancements.md)
-9. [learnings](09_learnings.md)
-10. [challenges and solutions](10_challenges_and_solutions.md)
-11. [screenshots](11_screenshots.md)
+8. [Future enhancements](08_future_enhancements.md)
+9. [Learnings](09_learnings.md)
+10. [Challenges and solutions](10_challenges_and_solutions.md)
+11. [Screenshots](11_screenshots.md)
 
 
 
