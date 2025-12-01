@@ -16,4 +16,8 @@ The goal is to demonstrate:
 - How to separate real cloud operations from the visual layer
 - How simulated dashboards can be used for training, reporting demonstrations
 
+---
+
 **Detailed documentation is available inside the docs/ folder.**
+
+---
